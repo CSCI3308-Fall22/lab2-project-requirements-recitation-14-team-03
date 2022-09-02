@@ -17,3 +17,15 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
+
+
+Group Information:
+
+Group:
+Recitiaion-014-Team-03
+
+Name / Github:
+- Jay Bentley / jabe1234
+- Ryan Hannigan / hanniganrj
+- Linda Ngo / ling3855
+- Aryn Cats / A-R-Cats
