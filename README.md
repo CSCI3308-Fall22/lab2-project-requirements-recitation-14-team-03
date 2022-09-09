@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 "Project Team Members: "Linda Ngo"
+=======
+
+Team members: Jay
+
+
+Changes
+
+
+>>>>>>> main
 # CSCI 3308 Lab 2: Team Formation
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
