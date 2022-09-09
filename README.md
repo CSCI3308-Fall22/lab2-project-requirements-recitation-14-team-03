@@ -1,3 +1,6 @@
+Project Team Members: 
+Aryn Cats
+
 # CSCI 3308 Lab 2: Team Formation
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
