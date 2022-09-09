@@ -1,4 +1,8 @@
-Project Team Members: Jay Bentley
+Team members: Jay
+
+
+Changes
+
 # CSCI 3308 Lab 2: Team Formation
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
