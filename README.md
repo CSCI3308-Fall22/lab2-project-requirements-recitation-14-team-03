@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Project Team Members: 
 Aryn Cats
+=======
+
+Team members: Jay
+
+
+Changes
+
+>>>>>>> main
 
 # CSCI 3308 Lab 2: Team Formation
 
