@@ -1,5 +1,8 @@
-Team members: Jay
 
+Team members: Jay, Ryan
+
+
+merge conflict
 
 CHANGES TO THE FILE
 
@@ -22,6 +25,12 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
+
+
+
+I am reviewing the pull request.
+
+This project is adding out team names.
 
 
 Group Information:
