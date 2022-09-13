@@ -1,7 +1,7 @@
 Team members: Jay
 
 
-Changes
+CHANGES TO THE FILE
 
 # CSCI 3308 Lab 2: Team Formation
 
