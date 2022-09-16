@@ -1,11 +1,15 @@
+<<<<<<< HEAD
+"Project Team Members: "Linda Ngo"
+=======
 
-Team members: Jay
+Team members: Jay, Ryan
+
 
 merge conflict
 
-Changes
+CHANGES TO THE FILE
 
-
+>>>>>>> main
 # CSCI 3308 Lab 2: Team Formation
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
@@ -25,6 +29,12 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
+
+
+
+I am reviewing the pull request.
+
+This project is adding out team names.
 
 
 Group Information:
