@@ -2,7 +2,7 @@
 "Project Team Members: "Linda Ngo"
 =======
 
-Team members: Jay, Ryan, Artur
+Team members: Jay, Ryan, Artur, Linda
 
 
 merge conflict
