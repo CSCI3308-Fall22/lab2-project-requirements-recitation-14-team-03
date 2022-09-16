@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-"Project Team Members: "Linda Ngo"
-=======
 
+Project Team Members: 
+Aryn Cats
+"Project Team Members: "Linda Ngo"
 Team members: Jay, Ryan, Artur, Linda
 
 
@@ -9,7 +9,8 @@ merge conflict
 
 CHANGES TO THE FILE
 
->>>>>>> main
+
+
 # CSCI 3308 Lab 2: Team Formation
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
