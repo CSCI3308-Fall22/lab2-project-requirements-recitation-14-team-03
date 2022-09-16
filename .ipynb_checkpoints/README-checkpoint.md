@@ -1,14 +1,9 @@
 
-Project Team Members: 
-Aryn Cats
-"Project Team Members: "Linda Ngo"
-Team members: Jay, Ryan, Artur, Linda
-
+Team members: Jay
 
 merge conflict
 
-CHANGES TO THE FILE
-
+Changes
 
 
 # CSCI 3308 Lab 2: Team Formation
@@ -32,12 +27,6 @@ git push
 ```
 
 
-
-I am reviewing the pull request.
-
-This project is adding out team names.
-
-
 Group Information:
 
 Group:
@@ -48,4 +37,3 @@ Name / Github:
 - Ryan Hannigan / hanniganrj
 - Linda Ngo / ling3855
 - Aryn Cats / A-R-Cats
-- Artur Castro / ArturACastro
