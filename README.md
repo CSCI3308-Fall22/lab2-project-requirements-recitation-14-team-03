@@ -2,7 +2,7 @@
 "Project Team Members: "Linda Ngo"
 =======
 
-Team members: Jay, Ryan
+Team members: Jay, Ryan, Artur
 
 
 merge conflict
@@ -47,3 +47,4 @@ Name / Github:
 - Ryan Hannigan / hanniganrj
 - Linda Ngo / ling3855
 - Aryn Cats / A-R-Cats
+- Artur Castro / ArturACastro
